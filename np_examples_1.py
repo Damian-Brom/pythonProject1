@@ -1,6 +1,6 @@
 import numpy as np
 
-my_list = [0,1,2,3,4] 
+my_list = [1,2,3,4,5]
 arr = np.array(my_list) # turning a list to an array 
 first = arr[0]
 last = arr[-1]
